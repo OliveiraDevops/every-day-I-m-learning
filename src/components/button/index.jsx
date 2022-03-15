@@ -1,4 +1,5 @@
 import { Component } from "react"
+import './style.css'
 
 class CustomButton extends Component {
     render (){

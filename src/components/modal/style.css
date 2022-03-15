@@ -4,7 +4,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.8);
   }
   
   .modal {
@@ -12,7 +12,6 @@
     width: 480px;
     padding: 40px;
     border-radius: 8px;
-    border: 1px solid #000;
     background: #fff;
-    margin: 240px auto;
+    margin: 180px auto;
   }
