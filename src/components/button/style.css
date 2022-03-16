@@ -11,10 +11,10 @@ button {
    }
    
    button:hover {
-    border: 1px solid white;
+        border: 1px solid rgb(112, 0, 134);
    }
    
    button:active {
-    box-shadow: 4px 4px 12px #c5c5c5,
+        box-shadow: 4px 4px 12px #3700ff,
                 -4px -4px 12px #ffffff;
    }
