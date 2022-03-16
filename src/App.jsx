@@ -12,19 +12,16 @@ class App extends Component {
     this.openModal = this.openModal.bind(this)
     this.closeModal = this.closeModal.bind(this)
   }
-
   openModal(){
     this.setState({
       isModalOpen: true
     })
   }
-
   closeModal(){
     this.setState({
       isModalOpen: false
     })
   }
-
  render(){
   return (
     <div className="App">
@@ -44,7 +41,6 @@ class App extends Component {
     </div>
   );
  }
- 
 }
 
 export default App;
